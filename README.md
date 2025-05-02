@@ -53,8 +53,11 @@ gcc -o tunnel tunnel.c -lpthread
 -**tunnel.c** : fichier source principal contenant :
 
   -La gestion des threads pour les bus
+  
   -L’utilisation des sémaphores pour synchroniser l’accès au tunnel
+  
   -Les fonctions d’entrée/sortie du tunnel
+  
   -La simulation des trajets
 
 ---
