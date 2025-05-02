@@ -64,7 +64,7 @@ gcc -o tunnel tunnel.c -lpthread
 
 -**Eimane El Fadil LASSAKEUR**
 
--**Younes Mohamed MEDBOUH**
+-**Mohamed Younes MEDBOUH**
 
 Projet réalisé dans le cadre du module Systèmes d’Exploitation 2
 Université d'Alger 1 - Département d'Informatique
